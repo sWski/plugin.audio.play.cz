@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Root Menu -->
+	<string id="30000">All stations</string>
+    <string id="30001">Top 25 stations</string>
+    <string id="30002">Browse by genre</string>
+    <string id="30003">Browse by region</string>
+	<string id="30004">Website</string>
+	<string id="30010">Network error</string>
+</strings>

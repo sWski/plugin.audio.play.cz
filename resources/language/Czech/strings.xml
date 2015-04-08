@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Root Menu -->
+	<string id="30000">Všechna rádia</string>
+    <string id="30001">Top 25 rádií</string>
+    <string id="30002">Procházet styly</string>
+    <string id="30003">Procházet kraje</string>
+	<string id="30004">Web</string>
+	<string id="30010">Chyba spojení</string>
+</strings>
